@@ -1,2 +1,2 @@
-# projectStoreC-
-C# desktop project for storing systems
+# C# Storing System
+A C# desktop project for storing systems.
